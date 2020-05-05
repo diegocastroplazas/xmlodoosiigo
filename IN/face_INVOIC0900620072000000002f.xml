@@ -1,0 +1,380 @@
+
+            <FACTURA>
+                
+            <ENC>
+                <ENC_1>INVOIC</ENC_1>
+                <ENC_2>900620072</ENC_2>
+                <ENC_3>1023927570</ENC_3>
+                <ENC_4>UBL 2.1</ENC_4>
+                <ENC_5>DIAN 2.1</ENC_5>
+                <ENC_6>CR8166</ENC_6>
+                <ENC_7>2020-04-29</ENC_7>
+                <ENC_8>13:26:25-05:00</ENC_8>
+                <ENC_9>01</ENC_9>
+                <ENC_10>COP</ENC_10>
+                <ENC_15>2</ENC_15>
+                <ENC_16>2020-04-29</ENC_16>
+                
+                <ENC_20>1</ENC_20>
+                <ENC_21>10</ENC_21>
+            </ENC>
+
+            <EMI>
+                <EMI_1>1</EMI_1>
+                <EMI_2>900620072</EMI_2>
+                <EMI_3>31</EMI_3>
+                <EMI_4>48</EMI_4>
+                <EMI_6>Crutek SAS</EMI_6>
+                <EMI_7>Crutek SAS</EMI_7>
+                <EMI_8></EMI_8>
+                <EMI_9></EMI_9>
+                <EMI_10>Crutek SAS
+Carrera 49 A #91-84
+Castellana
+Bogotá D.C. D.C. 11901
+Colombia</EMI_10>
+                <EMI_11>11</EMI_11>
+                <EMI_12></EMI_12>
+                <EMI_13>Bogotá D.C.</EMI_13>
+                <EMI_14>11901</EMI_14>
+                <EMI_15>CO</EMI_15>
+                <EMI_18></EMI_18>
+                <EMI_19>D.C.</EMI_19>
+                <EMI_21>Colombia</EMI_21>
+                <EMI_22>5</EMI_22>
+                <EMI_23>11001</EMI_23>
+                <EMI_24>Crutek SAS</EMI_24>
+
+                <TAC>
+                    <TAC_1>O-99</TAC_1>
+                </TAC>
+
+                <ICC>
+                    <ICC_1></ICC_1>
+                </ICC>
+
+                <DFE>
+                    <DFE_1>11001</DFE_1>
+                    <DFE_2>11</DFE_2>
+                    <DFE_3>CO</DFE_3>
+                    <DFE_4>11901</DFE_4>
+                    <DFE_5>Colombia</DFE_5>
+                    <DFE_6>Bogotá D.C.</DFE_6>
+                    <DFE_7>D.C.</DFE_7>
+                    <DFE_8></DFE_8>
+                </DFE>
+
+                <GTE>
+                    <GTE_1>01</GTE_1>
+                    <GTE_2>IVA</GTE_2>
+                </GTE>
+
+                <CDE>
+                    <CDE_1>1</CDE_1>
+                    <CDE_2>Representante de Ventas</CDE_2>
+                    <CDE_3>+57 (1) 7452630 - +57 3142443783</CDE_3>
+                    <CDE_4>mercadeo@crutek.co</CDE_4>
+                </CDE>
+            </EMI>
+            <ADQ>
+                <ADQ_1>2</ADQ_1>
+                <ADQ_2>1023927570</ADQ_2>
+                <ADQ_3>13</ADQ_3>
+                <ADQ_4>48</ADQ_4>
+                
+                <ADQ_6>PINEROS JULIAN RICARDO</ADQ_6>
+                <ADQ_7>PINEROS JULIAN RICARDO</ADQ_7>
+                <ADQ_8>PINEROS JULIAN RICARDO</ADQ_8>
+                <ADQ_9>PINEROS JULIAN RICARDO</ADQ_9>
+                <ADQ_10>Barrios Unidos
+
+Bogotá D.C. D.C. 
+Colombia</ADQ_10>
+                <ADQ_11>11</ADQ_11>
+                <ADQ_12></ADQ_12>
+                <ADQ_13>Bogotá D.C.</ADQ_13>
+                
+                <ADQ_15>CO</ADQ_15>
+                <ADQ_18></ADQ_18>
+                <ADQ_19>D.C.</ADQ_19>
+                <ADQ_21>Colombia</ADQ_21>
+                <ADQ_22>0</ADQ_22>
+                <ADQ_23>11001</ADQ_23>
+                <ADQ_24>1023927570</ADQ_24>
+                <ADQ_25>13</ADQ_25>
+                <ADQ_26>0</ADQ_26>
+
+                <TCR>
+                    <TCR_1>O-99</TCR_1>
+                </TCR>
+
+                <ILA>
+                   <ILA_1>PINEROS JULIAN RICARDO</ILA_1>
+                   <ILA_2>1023927570</ILA_2>
+                   <ILA_3>13</ILA_3>
+                   <ILA_4>0</ILA_4>
+                </ILA>
+
+                <ICR></ICR>
+
+                <DFA>
+                    <DFA_1>CO</DFA_1>
+                    <DFA_2>11</DFA_2>
+                    <DFA_4>11001</DFA_4>
+                    <DFA_8></DFA_8>
+                </DFA>
+
+                <CDA>
+                    <CDA_1>1</CDA_1>
+                    <CDA_2>PINEROS JULIAN RICARDO/False</CDA_2>
+                    <CDA_3></CDA_3>
+                    <CDA_4>julian.pineros@crusardi.net</CDA_4>
+                </CDA>
+
+                <GTA>
+                    <GTA_1>01</GTA_1>
+                    <GTA_2>IVA</GTA_2>
+                </GTA>
+            </ADQ>
+            <TOT>
+                <TOT_1>103854.0</TOT_1>
+                <TOT_2>COP</TOT_2>
+                <TOT_3>103854.0</TOT_3>
+                <TOT_4>COP</TOT_4>
+                <TOT_5>123586.26</TOT_5>
+                <TOT_6>COP</TOT_6>
+                <TOT_7>123586.26</TOT_7>
+                <TOT_8>COP</TOT_8>
+            </TOT>
+            
+            
+        
+            
+            <TIM>
+                <TIM_1>false</TIM_1>
+                <TIM_2>19732.26</TIM_2>
+                <TIM_3>COP</TIM_3>
+
+                <IMP>
+                    <IMP_1>01</IMP_1>
+                    <IMP_2>103854.00</IMP_2>
+                    <IMP_3>COP</IMP_3>
+                    <IMP_4>19732.26</IMP_4>
+                    <IMP_5>COP</IMP_5>
+                    <IMP_6>19.0</IMP_6>
+                </IMP>
+            </TIM>
+        
+            <TDC>
+                <TDC_1>COP</TDC_1>
+                <TDC_2>COP</TDC_2>
+                <TDC_3>1.00</TDC_3>
+                <TDC_4>2020-04-29</TDC_4>
+                <TDC_5>1.00</TDC_5>
+                <TDC_6>1.00</TDC_6>
+            </TDC>
+            <DRF>
+                <DRF_1>18763002399308</DRF_1>
+                <DRF_2>2019-12-05</DRF_2>
+                <DRF_3>2021-12-05</DRF_3>
+                <DRF_4>CR</DRF_4>
+                <DRF_5>8001</DRF_5>
+                <DRF_6>11000</DRF_6>
+            </DRF>
+            <ITD>
+                <ITD_5>123586.26000000001</ITD_5>
+                <ITD_6>COP</ITD_6>
+            </ITD>
+
+            <NOT>
+                <NOT_1>1.-NO SOMOS GRANDES CONTRIBUYENTES|SOMOS REGIMEN COMÚN||NO SOMOS AUTORETENEDORES|RESOLUCIÓN DE FACTURACIÓN 18763002399308|Tarifa ICA 11.04</NOT_1>
+            </NOT><NOT>
+                <NOT_1>2.-</NOT_1>
+            </NOT><NOT>
+                <NOT_1>3.-&quot;N/A&quot;</NOT_1>
+            </NOT><NOT>
+                <NOT_1>6.- False|One Hundred And Twenty-Three Thousand, Five Hundred And Eighty-Six Peso Colombiano and Twenty-Six Centavos</NOT_1>
+            </NOT><NOT>
+                <NOT_1>7.- &quot;False&quot; &quot;- &quot;+57 (1) 7452630 - +57 3142443783&quot;</NOT_1>
+            </NOT><NOT>
+                <NOT_1>8.-1023927570||S02543</NOT_1>
+            </NOT><NOT>
+                <NOT_1>10.- | | | |S02543</NOT_1>
+            </NOT><NOT>
+                <NOT_1>11.- |3| |0|0</NOT_1>
+            </NOT>
+
+            <ORC>
+                <ORC_1>CR8166</ORC_1>
+                <ORC_4>S02543</ORC_4>
+            </ORC>
+
+            
+            
+
+            <IEN>
+                <IEN_1>Barrios Unidos</IEN_1>
+                <IEN_2>11</IEN_2>
+                <IEN_3></IEN_3>
+                <IEN_4>Bogotá D.C.</IEN_4>
+                <IEN_6>CO</IEN_6>
+                <IEN_7>PINEROS JULIAN RICARDO</IEN_7>
+                <IEN_12>11001</IEN_12>
+            </IEN>
+
+            <MEP>
+                <MEP_1>1</MEP_1>
+                <MEP_2>1</MEP_2>
+                <MEP_3></MEP_3>
+            </MEP>
+
+            <CTS>
+                <CTS_1>CGEN04</CTS_1>
+            </CTS>
+
+            <CDN>
+                
+                
+            </CDN>
+
+            <DCN>
+                <DCN_1>CR8166</DCN_1>
+            </DCN>
+
+            
+
+            <FE1>
+                
+            </FE1>
+
+            
+            <ITE>
+                    <ITE_1>1</ITE_1>
+                    <ITE_2></ITE_2>
+                    <ITE_3>1.0</ITE_3>
+                    <ITE_4>94</ITE_4>
+                    <ITE_5>50000.0</ITE_5>
+                    <ITE_6>COP</ITE_6>
+                    <ITE_7>50000.0</ITE_7>
+                    <ITE_8>COP</ITE_8>
+                    <ITE_10></ITE_10>
+                    <ITE_11>[EGY039903190] COMBO HG-48200 AG-50190
+Combo hg-48200 + ag-50190</ITE_11>
+                    <ITE_18>EGY039903190</ITE_18>
+                    <ITE_19>50000.0</ITE_19>
+                    <ITE_20>COP</ITE_20>
+                    <ITE_21>50000.0</ITE_21>
+                    <ITE_22>COP</ITE_22>
+                    <ITE_27>1.0</ITE_27>
+                    <ITE_28>94</ITE_28>
+
+                    <IRF>
+                        <IRF_1>IV</IRF_1>
+                        <IRF_2>CR8166</IRF_2>
+                        <IRF_3>1</IRF_3>
+                    </IRF>
+
+                    <MYM>
+                        
+                        <MYM_2>[EGY039903190] COMBO HG-48200 AG-50190</MYM_2>
+                    </MYM>
+
+                    <IDE>
+                        <IDE_1>false</IDE_1>
+                        <IDE_2>0.00</IDE_2>
+                        <IDE_3>COP</IDE_3>
+                        <IDE_6>0.0</IDE_6>
+                        <IDE_7>50000.00</IDE_7>
+                        <IDE_8>COP</IDE_8>
+                        <IDE_10>1</IDE_10>
+                    </IDE>
+                    <TII>
+                        <TII_1>9500.00</TII_1>
+                        <TII_2>COP</TII_2>
+                        <TII_3>false</TII_3>
+                        <IIM>
+                            <IIM_1>01</IIM_1>
+                            <IIM_2>9500.00</IIM_2>
+                            <IIM_3>COP</IIM_3>
+                            <IIM_4>50000.0</IIM_4>
+                            <IIM_5>COP</IIM_5>
+                            <IIM_6>19.0</IIM_6>
+                            <IIM_7></IIM_7>
+                            <IIM_8></IIM_8>
+                            <IIM_9></IIM_9>
+                            <IIM_10></IIM_10>
+                        </IIM>
+                    </TII>
+                    <IAE>
+                        
+                        <IAE_1>EGY039903190</IAE_1>
+                        <IAE_2>999</IAE_2>
+                    </IAE>
+                    
+            </ITE><ITE>
+                    <ITE_1>2</ITE_1>
+                    <ITE_2></ITE_2>
+                    <ITE_3>2.0</ITE_3>
+                    <ITE_4>94</ITE_4>
+                    <ITE_5>53854.0</ITE_5>
+                    <ITE_6>COP</ITE_6>
+                    <ITE_7>26927.0</ITE_7>
+                    <ITE_8>COP</ITE_8>
+                    <ITE_10></ITE_10>
+                    <ITE_11>[EGY039903011] GY-DC-1600-1
+Gy-dc-1600-1</ITE_11>
+                    <ITE_18>EGY039903011</ITE_18>
+                    <ITE_19>53854.0</ITE_19>
+                    <ITE_20>COP</ITE_20>
+                    <ITE_21>53854.0</ITE_21>
+                    <ITE_22>COP</ITE_22>
+                    <ITE_27>2.0</ITE_27>
+                    <ITE_28>94</ITE_28>
+
+                    <IRF>
+                        <IRF_1>IV</IRF_1>
+                        <IRF_2>CR8166</IRF_2>
+                        <IRF_3>2</IRF_3>
+                    </IRF>
+
+                    <MYM>
+                        
+                        <MYM_2>[EGY039903011] GY-DC-1600-1</MYM_2>
+                    </MYM>
+
+                    <IDE>
+                        <IDE_1>false</IDE_1>
+                        <IDE_2>0.00</IDE_2>
+                        <IDE_3>COP</IDE_3>
+                        <IDE_6>0.0</IDE_6>
+                        <IDE_7>53854.00</IDE_7>
+                        <IDE_8>COP</IDE_8>
+                        <IDE_10>1</IDE_10>
+                    </IDE>
+                    <TII>
+                        <TII_1>10232.26</TII_1>
+                        <TII_2>COP</TII_2>
+                        <TII_3>false</TII_3>
+                        <IIM>
+                            <IIM_1>01</IIM_1>
+                            <IIM_2>10232.26</IIM_2>
+                            <IIM_3>COP</IIM_3>
+                            <IIM_4>53854.0</IIM_4>
+                            <IIM_5>COP</IIM_5>
+                            <IIM_6>19.0</IIM_6>
+                            <IIM_7></IIM_7>
+                            <IIM_8></IIM_8>
+                            <IIM_9></IIM_9>
+                            <IIM_10></IIM_10>
+                        </IIM>
+                    </TII>
+                    <IAE>
+                        
+                        <IAE_1>EGY039903011</IAE_1>
+                        <IAE_2>999</IAE_2>
+                    </IAE>
+                    
+            </ITE>
+        
+            </FACTURA>
+        

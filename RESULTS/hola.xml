@@ -1,0 +1,17 @@
+<XMLData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Product Name="SIIGO" Version="03"></Product><CompanyData><PersonType>1</PersonType><Name>Crutek SAS</Name><Nit>900620072</Nit><Phone>+57 (1) 7452630 - +57 3142443783</Phone><RegimeType>Quiubo pues</RegimeType><Address>Crutek SAS
+Carrera 49 A #91-84
+Castellana
+BogotÃ¡ D.C. D.C. 11901
+Colombia</Address><City>BogotÃ¡ D.C.</City><EconomicActivityCode></EconomicActivityCode><EconomicActivityName></EconomicActivityName><EconomicActivityRate></EconomicActivityRate><EMail>mercadeo@crutek.co</EMail><Contact>Representante de Ventas<Code></Code><Email></Email></Contact></CompanyData><Customer><Code>1023927570</Code><CheckDigit>0</CheckDigit><BranchOffice>000</BranchOffice><IsSocialReason></IsSocialReason><FirstName>PINEROS JULIAN RICARDO</FirstName><Address>Barrios Unidos
+
+BogotÃ¡ D.C. D.C. 
+Colombia</Address><Phone></Phone><EMail>julian.pineros@crusardi.net</EMail><Collector>1</Collector></Customer><Contact></Contact><Request><WithApproval>FALSE</WithApproval></Request><Billing><Global><D K="0001">Razon social</D><D K="0002">900620072</D><D K="0003">900620072</D><D K="0005">Crutek SAS
+Carrera 49 A #91-84
+Castellana
+BogotÃ¡ D.C. D.C. 11901
+Colombia</D><D K="0011">+57 (1) 7452630 - +57 3142443783</D><D K="0013">Responsables de iva</D><D K="1019">mercadeo@crutek.co</D><D K="1189">CO</D><D K="1205">1</D><D K="1209">F</D><D K="1210">Crutek SAS</D><D K="1232">BogotÃ¡ D.C.</D><D K="1233">11</D><D K="1234">11901</D><D K="1264">11001</D><D K="1263">Crutek SAS</D><D K="1265">05</D><D K="1266">O-99</D><D K="0018">1023927570</D><D K="0403">Digito verificacion</D><D K="1253">O-99</D><D K="1184">Responsabilidad fiscal adquiriente</D><D K="1185">2</D><D K="1126">13</D><D K="0017">Responsabilidad fiscal adquiriente</D><D K="0405">13</D><D K="0406">PINEROS JULIAN RICARDO</D><D K="0407">PINEROS JULIAN RICARDO</D><D K="1268">PINEROS JULIAN RICARDO</D><D K="0025">Barrios Unidos
+
+BogotÃ¡ D.C. D.C. 
+Colombia</D><D K="0402">Pais</D><D K="0028">BogotÃ¡ D.C.</D><D K="0822">julian.pineros@crusardi.net</D><D K="0089"></D><D K="0505">PINEROS JULIAN RICARDO/False</D><D K="1190">Codigo ISO Pais</D><D K="1211">11</D><D K="1212">11001</D><D K="1271">Codigo tipo de factura</D><D K="0009">Tipo de documento</D><D K="0494">Codigo comprobante contable</D><D K="0008">CR8166</D><D K="0071">18763002399308</D><D K="0072">2019-12-05</D><D K="1213">2021-12-05</D><D K="0073">CR8166</D><D K="0074">2021-12-05</D><D K="0075">11000</D><D K="1131">19.0</D><D K="1240">Codigo comprobante contable</D><D K="1114">Codigo comprobante contable</D><D K="0022">2020-04-29</D><D K="1187">01</D><D K="1281">1</D><D K="0067">123586.26</D><D K="0053">103854.0</D><D K="0602">103854.0</D><D K="0060">19732.26</D><D K="0416">19</D><D K="1273">123586.26</D></Global><Detail><R><D K="0490">1</D><D K="0031">EGY039903190</D><D K="0035">None</D><D K="1282">94</D><D K="0033">[EGY039903190] COMBO HG-48200 AG-50190
+Combo hg-48200 + ag-50190</D><D K="0038">1.0</D><D K="0039">50000.0</D><D K="0476">50000.0</D><D K="0509">50000.0</D><D K="0527">9500.00</D><D K="1292">50000.0</D></R><R><D K="0490">2</D><D K="0031">EGY039903011</D><D K="0035">None</D><D K="1282">94</D><D K="0033">[EGY039903011] GY-DC-1600-1
+Gy-dc-1600-1</D><D K="0038">2.0</D><D K="0039">26927.0</D><D K="0476">53854.0</D><D K="0509">53854.0</D><D K="0527">10232.26</D><D K="1292">53854.0</D></R></Detail></Billing></XMLData>
